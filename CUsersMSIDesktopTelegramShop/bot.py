@@ -8,7 +8,7 @@ import datetime
 
 # ========= НАЛАШТУВАННЯ =========
 import os
-TOKEN = osgetenv("8094754063:AAHNoaIApq1K_vVHTsKk_R_24eLVWuD_1oU")
+TOKEN = "8094754063:AAHNoaIApq1K_vVHTsKk_R_24eLVWuD_1oU"
 ADMIN_ID = 7695504748
 CONTACT_TG = "@MrCapitalist3"
 CONTACT_PHONE = "+380669367611"
@@ -199,3 +199,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
